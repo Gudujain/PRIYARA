@@ -437,6 +437,9 @@ git push origin feature/your-amazing-idea
 ```
 
 ---
+## Code of Conduct
+
+To keep Priyaraa welcoming and inclusive for everyone, please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ## 📄 License
 
